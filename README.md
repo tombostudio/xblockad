@@ -2,7 +2,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>TomboKey</title>
+  <title>XBlockAd Extension for Safari on MacOS, iOS</title>
 </head>
 
 <body style="margin:0;background:#fcfaf6;color:#111;font-family:-apple-system,Arial,sans-serif;">
@@ -13,7 +13,7 @@
   <div style="display:flex;align-items:center;gap:20px;flex-wrap:wrap;text-align:left;justify-content:flex-start;">
 
     <img src="https://i.imgur.com/xhqOkDL.png"
-         alt="TomBoKey Icon"
+         alt="XBlockAd Icon"
          style="
             width:128px;
             height:128px;
@@ -26,7 +26,7 @@
       <h1 style="margin:0 0 10px;font-size:32px;">TomboKey</h1>
 
       <p style="margin:0;opacity:0.85;line-height:1.4;font-size:14px;">
-        A fast and lightweight Vietnamese input method for daily typing.
+        Lightweight content blocker for Safari on iPhone, iPad, and Mac.
       </p>
 
       <a href="#privacy"
@@ -43,10 +43,11 @@
     <h2 style="margin:0 0 10px;">🚀 Features</h2>
 
     <p style="margin:0;line-height:1.6;">
-      • Fast, responsive typing and text replacement<br>
-      • Clean minimal design<br>
-      • No tracking, no ads<br>
-      • Works offline
+      • Blocks ads and trackers in Safari<br>
+      • Faster page loading and cleaner websites<br>
+      • Reduced bandwidth usage<br>
+      • Helps save battery life<br>
+      • Lightweight and efficient
     </p>
 
   </div>
@@ -80,10 +81,10 @@
       <br>
       Feedback Form:
       <b>
-        <a href="https://tinyurl.com/tombokey"
+        <a href="[https://tinyurl.com/tombokey](https://github.com/tombostudio/xblockad/issues)"
            target="_blank"
            style="color:#005ed2;text-decoration:none;">
-          tinyurl.com/tombokey
+          github.com/tombostudio/xblockad/issues
         </a>
       </b>
     </p>
